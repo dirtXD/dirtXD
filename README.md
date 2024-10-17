@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @dirtXD
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Three.js
+- 🌱 I’m currently learning Three.js and Python 3
 - 💞️ I’m looking to collaborate on something idk
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Hi
+- ⚡ Fun fact: Hello
 
 <!---
 dirtXD/dirtXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
